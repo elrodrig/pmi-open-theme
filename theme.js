@@ -3,7 +3,7 @@ window._uiWidgetsWithHandle = [];
 let retryHandler = 50;
 let resetRetry = 2;
 let running = false;
-console.log("Heloooo Eddieeeeeeeeeeee");
+console.log("Heloooo Hassan");
 
 /**
  * pushStateHook
